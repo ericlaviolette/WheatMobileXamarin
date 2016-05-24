@@ -1,0 +1,12 @@
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager\bin\Debug\InventoryManager.dll
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager\obj\Debug\InventoryManager.dll
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager\obj\Debug\InventoryManager.dll.mdb
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager\bin\Debug\InventoryManager.dll.mdb

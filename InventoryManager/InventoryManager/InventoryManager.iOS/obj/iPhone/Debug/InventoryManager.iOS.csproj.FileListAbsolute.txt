@@ -1,0 +1,17 @@
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\bin\iPhone\Debug\InventoryManageriOS.exe
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\bin\iPhone\Debug\InventoryManageriOS.pdb
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\bin\iPhone\Debug\InventoryManager.dll
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\bin\iPhone\Debug\InventoryManager.pdb
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\obj\iPhone\Debug\InventoryManager.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\obj\iPhone\Debug\InventoryManageriOS.exe
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\obj\iPhone\Debug\InventoryManageriOS.pdb
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\obj\iPhone\Debug\InventoryManageriOS.exe.mdb
+C:\Users\Eric\Source\Repos\WheatMobileXamarin\InventoryManager\InventoryManager\InventoryManager.iOS\bin\iPhone\Debug\InventoryManageriOS.exe.mdb
